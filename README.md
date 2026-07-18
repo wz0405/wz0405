@@ -25,7 +25,7 @@
 | [mysqlBinLogCdc](https://github.com/wz0405/mysqlBinLogCdc) | Debezium 없이 BinaryLogClient로 직접 구현한 애플리케이션 레벨 CDC |
 | [nettyMigrationAPI](https://github.com/wz0405/nettyMigrationAPI) | Servlet → Netty 이벤트 루프 전환, 처리량·운영 트레이드오프 검증 |
 | [dynamicQueryDSL](https://github.com/wz0405/dynamicQueryDSL) | MyBatis 동적 쿼리를 대체하는 타입세이프 빌더 + EXPLAIN 자동 검증 |
-| [ticketingFlow](https://github.com/wz0405/ticketingFlow) | 대기열 기반 티켓 예매 — Redis ZSET·Lua 원자 처리·Streams write-behind, k6 오버셀 불변식 검증 (개인 프로젝트, 운영 중) |
+| [ticketingFlow](https://github.com/wz0405/ticketingFlow) | 대기열 기반 티켓 예매 — Redis ZSET·Lua 원자 처리·Streams write-behind, k6 오버셀 불변식 검증 (개인 프로젝트, [라이브 데모](https://gks0405.synology.me:8080), 운영 중) |
 
 ## 일하는 방식
 
